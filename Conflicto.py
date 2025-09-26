@@ -1,2 +1,2 @@
 print("archivo para demostracion de conflicto")
-print("rama polanco")
+print("rama main")
